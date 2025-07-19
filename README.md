@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="New Project 2  DFF477B" src="https://github.com/user-attachments/assets/8f0b5397-ef52-4617-9822-e6efbd7d7df5" />
+
+
 # SalarySense
 
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg)
